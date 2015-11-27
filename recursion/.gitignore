@@ -1,0 +1,6 @@
+ebin/*
+deps/*
+log/*
+.eunit/*
+*.dump
+rebar
